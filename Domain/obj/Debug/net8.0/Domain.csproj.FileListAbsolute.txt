@@ -1,0 +1,11 @@
+/home/rodom/TUP/practica-prog/Domain/bin/Debug/net8.0/Domain.deps.json
+/home/rodom/TUP/practica-prog/Domain/bin/Debug/net8.0/Domain.dll
+/home/rodom/TUP/practica-prog/Domain/bin/Debug/net8.0/Domain.pdb
+/home/rodom/TUP/practica-prog/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodom/TUP/practica-prog/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/home/rodom/TUP/practica-prog/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/home/rodom/TUP/practica-prog/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/home/rodom/TUP/practica-prog/Domain/obj/Debug/net8.0/Domain.dll
+/home/rodom/TUP/practica-prog/Domain/obj/Debug/net8.0/refint/Domain.dll
+/home/rodom/TUP/practica-prog/Domain/obj/Debug/net8.0/Domain.pdb
+/home/rodom/TUP/practica-prog/Domain/obj/Debug/net8.0/ref/Domain.dll

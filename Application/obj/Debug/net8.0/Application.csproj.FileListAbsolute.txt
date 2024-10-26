@@ -1,0 +1,15 @@
+/home/rodom/TUP/practica-prog/Application/bin/Debug/net8.0/Application.deps.json
+/home/rodom/TUP/practica-prog/Application/bin/Debug/net8.0/Application.dll
+/home/rodom/TUP/practica-prog/Application/bin/Debug/net8.0/Application.pdb
+/home/rodom/TUP/practica-prog/Application/bin/Debug/net8.0/Domain.dll
+/home/rodom/TUP/practica-prog/Application/bin/Debug/net8.0/Domain.pdb
+/home/rodom/TUP/practica-prog/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/home/rodom/TUP/practica-prog/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodom/TUP/practica-prog/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/home/rodom/TUP/practica-prog/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/home/rodom/TUP/practica-prog/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/home/rodom/TUP/practica-prog/Application/obj/Debug/net8.0/Application.csproj.CopyComplete
+/home/rodom/TUP/practica-prog/Application/obj/Debug/net8.0/Application.dll
+/home/rodom/TUP/practica-prog/Application/obj/Debug/net8.0/refint/Application.dll
+/home/rodom/TUP/practica-prog/Application/obj/Debug/net8.0/Application.pdb
+/home/rodom/TUP/practica-prog/Application/obj/Debug/net8.0/ref/Application.dll
